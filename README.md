@@ -58,3 +58,9 @@ EDA helps you **understand the data before modeling or decision-making**. Here's
 
 pip install -r requirements.txt
 python EDA_indian_it_sales_data.py
+Use This requirement Library 
+------------|
+pandas
+numpy
+matplotlib
+seaborn
