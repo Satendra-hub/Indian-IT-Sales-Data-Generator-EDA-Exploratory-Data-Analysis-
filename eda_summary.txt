@@ -1,0 +1,24 @@
+📊 Summary Statistics:
+       monthly_revenue  employee_count  project_duration  client_rating           start_date
+count       100.000000      100.000000        100.000000     100.000000                  100
+mean        267.500000       53.150000         14.390000       4.020000  2022-07-03 10:04:48
+min          51.000000       11.000000          3.000000       3.000000  2020-01-01 00:00:00
+25%         162.500000       33.500000         10.750000       3.600000  2021-04-01 00:00:00
+50%         256.500000       53.500000         15.000000       4.050000  2022-08-16 12:00:00
+75%         385.250000       73.000000         20.000000       4.500000  2023-11-01 00:00:00
+max         495.000000       99.000000         24.000000       5.000000  2025-01-01 00:00:00
+std         127.500802       24.787328          6.285939       0.571017                  NaN
+
+📌 Company Distribution:
+company_name
+Wipro            24
+Tech Mahindra    23
+TCS              21
+HCL              18
+Infosys          14
+
+📌 Delivery Status Distribution:
+delivery_status
+Delayed      38
+On-time      31
+Cancelled    31
