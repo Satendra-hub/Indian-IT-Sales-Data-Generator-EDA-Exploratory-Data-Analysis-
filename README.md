@@ -54,8 +54,7 @@ EDA helps you **understand the data before modeling or decision-making**. Here's
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/indian-it-sales-eda.git
-   cd indian-it-sales-eda
+   https://github.com/Satendra-hub/Indian-IT-Sales-Data-Generator-EDA-Exploratory-Data-Analysis-/blob/main/EDA_indian_it_sales_data.py
 
 pip install -r requirements.txt
 python EDA_indian_it_sales_data.py
